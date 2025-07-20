@@ -1,3 +1,28 @@
 {
-  "players": []
+  "players": [
+    {
+      "name": "dfgh",
+      "age": "10",
+      "role": "Batsman",
+      "battingStyle": "werg",
+      "bowlingStyle": "ertg",
+      "team": "erfgh"
+    },
+    {
+      "name": "smit",
+      "age": "18",
+      "role": "Batsman",
+      "battingStyle": "right-hand",
+      "bowlingStyle": "spinner",
+      "team": "abc"
+    },
+    {
+      "name": "smit",
+      "age": "18",
+      "role": "Bowler",
+      "battingStyle": "right-hand",
+      "bowlingStyle": "right arm",
+      "team": "abcd"
+    }
+  ]
 }
